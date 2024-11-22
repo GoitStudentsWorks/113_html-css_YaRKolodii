@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-first/",
+    "build": "vite build --base=/113_html-css_YaRKolodii/",
     "preview": "vite preview"
   },
   "devDependencies": {
